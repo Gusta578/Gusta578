@@ -1,4 +1,4 @@
-### Hi there 👋
+
 ### Olá, eu sou o Gustavo Augusto 👋
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gustavo-augusto-de-aquino-vaz-38ba84212/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/gustamc._/?next=%2F)
