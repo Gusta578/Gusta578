@@ -1,16 +1,22 @@
 ### Hi there 👋
+### Olá, eu sou o Gustavo Augusto 👋
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gustavo-augusto-de-aquino-vaz-38ba84212/)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/gustamc._/?next=%2F)
 
-<!--
-**Gusta578/Gusta578** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![Gusta578 GitHub stats](https://github-readme-stats.vercel.app/api?username=Gusta578&show_icons=true&theme=dracula)
 
-Here are some ideas to get you started:
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Gusta578)](https://github.com/anuraghazra/github-readme-stats)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Tecnologias que eu uso 👩‍💻
+<div style="display: inline_block"><br/>
+<img align="center" alt="html5" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+<img align="center" alt="html5" src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white" />
+<img align="center" alt="html5" src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white" />
+
+  
+</div><br/>
+
+Estudante entusiasta da tecnologia e paixão por mudar vidas atravez da programação.
+
+##
+
