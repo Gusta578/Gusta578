@@ -16,7 +16,7 @@
   
 </div><br/>
 
-Estudante entusiasta da tecnologia e paixão por mudar vidas atravez da programação.
+Estudante entusiasta da tecnologia e paixão por mudar vidas através da programação.
 
 ##
 
