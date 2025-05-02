@@ -1,4 +1,4 @@
-<h1 align="center">👋 Olá! Eu sou Gustavo Augusto</h1>
+<h1 align="center"> Olá! Eu sou Gustavo Augusto 👨‍💻</h1>
 
 <p align="center">
   📊 Futuro Engenheiro de Dados | 🛠️ Apaixonado por resolver problemas com dados e tecnologia<br>
