@@ -1,4 +1,4 @@
-<h1 align="center">👋 Olá! Eu sou [Seu Nome ou Nick]</h1>
+<h1 align="center">👋 Olá! Eu sou Gustavo Augusto</h1>
 
 <p align="center">
   📊 Futuro Engenheiro de Dados | 🛠️ Apaixonado por resolver problemas com dados e tecnologia<br>
@@ -12,7 +12,6 @@
 - 🎓 Estudando para me tornar Engenheiro de Dados
 - 📚 Curioso sobre: arquiteturas de dados, pipelines e big data
 - ⚙️ Stack atual: `Python`, `Pandas`, `MySQL`, `AWS`, `Airflow`
-- 🌱 Aprendendo mais sobre: `Spark`, `Docker`, `ETL`, `Kafka`
 
 ---
 
@@ -30,8 +29,8 @@
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=SEU-USUARIO&show_icons=true&theme=tokyonight" />
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU-USUARIO&layout=compact&theme=tokyonight"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Gusta578&show_icons=true&theme=tokyonight" />
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gusta578&layout=compact&theme=tokyonight"/>
 </div>
 
 ---
