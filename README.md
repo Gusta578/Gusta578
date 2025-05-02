@@ -9,9 +9,15 @@
 
 ### 👨‍💻 Sobre mim
 
-- 🎓 Estudando para me tornar Engenheiro de Dados
-- 📚 Curioso sobre: arquiteturas de dados, pipelines e big data
+- 🎓 Estudando para me tornar Engenheiro de Dados  
+- 📚 Curioso sobre: arquiteturas de dados, pipelines e big data  
 - ⚙️ Stack atual: `Python`, `Pandas`, `MySQL`, `AWS`, `Airflow`
+
+---
+
+<div align="center">
+  <img src="assets/pokemon.gif" width="300"/>
+</div>
 
 ---
 
@@ -37,10 +43,9 @@
 
 ### 🌐 Conecte-se comigo
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gustavoaugustodeaquinovaz/)
-[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/gustamc.))
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gustavoaugustodeaquinovaz/)  
+[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/gustamc.)
 
 ---
 
 🧠 *"Dados bem tratados contam as melhores histórias."*
-
