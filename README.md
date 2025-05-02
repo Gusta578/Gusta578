@@ -14,9 +14,8 @@
 - ⚙️ Stack atual: `Python`, `Pandas`, `MySQL`, `AWS`, `Airflow`
 
 ---
-
 <div align="center">
-  <img src="assets/pokemon.gif" width="300"/>
+  <img src="pokemon.gif" width="300"/>
 </div>
 
 ---
