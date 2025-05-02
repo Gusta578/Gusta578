@@ -1,23 +1,48 @@
+<h1 align="center">👋 Olá! Eu sou [Seu Nome ou Nick]</h1>
 
-### Olá, eu sou o Gustavo Augusto 👋
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gustavo-augusto-de-aquino-vaz-38ba84212/)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/gustamc._/?next=%2F)
+<p align="center">
+  📊 Futuro Engenheiro de Dados | 🛠️ Apaixonado por resolver problemas com dados e tecnologia<br>
+  🚀 Explorando o universo do Data Engineering com muita curiosidade!
+</p>
 
-![Gusta578 GitHub stats](https://github-readme-stats.vercel.app/api?username=Gusta578&show_icons=true&theme=dracula)
+---
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Gusta578)](https://github.com/anuraghazra/github-readme-stats)
+### 👨‍💻 Sobre mim
 
-## Tecnologias que eu uso 👨‍💻
-<div style="display: inline_block"><br/>
-<img align="center" alt="html5" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-<img align="center" alt="html5" src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white" />
-<img align="center" alt="html5" src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white" />
-<img align="center" alt="html5" src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=green" />
+- 🎓 Estudando para me tornar Engenheiro de Dados
+- 📚 Curioso sobre: arquiteturas de dados, pipelines e big data
+- ⚙️ Stack atual: `Python`, `Pandas`, `MySQL`, `AWS`, `Airflow`
+- 🌱 Aprendendo mais sobre: `Spark`, `Docker`, `ETL`, `Kafka`
 
-  
-</div><br/>
+---
 
-Estudante entusiasta da tecnologia e paixão por mudar vidas através da programação.
+### 🔧 Tecnologias que uso
 
-##
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
+![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat&logo=pandas&logoColor=white)
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white)
+![Airflow](https://img.shields.io/badge/-Airflow-017CEE?style=flat&logo=apache-airflow&logoColor=white)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)
+
+---
+
+### 📊 GitHub Stats
+
+<div align="center">
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=SEU-USUARIO&show_icons=true&theme=tokyonight" />
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU-USUARIO&layout=compact&theme=tokyonight"/>
+</div>
+
+---
+
+### 🌐 Conecte-se comigo
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/seu-usuario)
+[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/seu-usuario)
+[![Portfólio](https://img.shields.io/badge/-Portfólio-000?style=flat&logo=github&logoColor=white)](https://seuportfolio.com)
+
+---
+
+🧠 *"Dados bem tratados contam as melhores histórias."*
 
