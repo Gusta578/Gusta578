@@ -15,7 +15,7 @@
 
 ---
 <div align="center">
-  <img src="pokemon.gif" width="300"/>
+  <img src="GIF from GIFER.gif" width="300"/>
 </div>
 
 ---
