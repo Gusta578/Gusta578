@@ -1,4 +1,4 @@
-<h1 align="center"> Olá! Eu sou Gustavo Augusto 👨‍💻</h1>
+<h1 align="center">Olá! Eu sou o Gustavo Augusto <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/></h1>
 
 <p align="center">
   📊 Futuro Engenheiro de Dados | 🛠️ Apaixonado por resolver problemas com dados e tecnologia<br>
@@ -15,8 +15,9 @@
 
 ---
 <div align="center">
-  <img src="GIF from GIFER.gif" width="300"/>
+  <img src="https://raw.githubusercontent.com/Gusta578/Gusta578/main/GIF%20from%20GIFER.gif" width="300"/>
 </div>
+
 
 ---
 
