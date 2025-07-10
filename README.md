@@ -11,7 +11,7 @@
 
 - 🎓 Estudando para me tornar Engenheiro de Dados  
 - 📚 Curioso sobre: arquiteturas de dados, pipelines e big data  
-- ⚙️ Stack atual: `Python`, `Pandas`, `MySQL`, `AWS`, `Airflow`, `Pyspark`
+- ⚙️ Stack atual: `Python`, `Pandas`, `MySQL`, `AWS`, `Airflow`, `Pyspark`, `SnowFlake`
 
 ---
 <div align="center">
